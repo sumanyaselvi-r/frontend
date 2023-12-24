@@ -82,7 +82,7 @@ const ContactForm = () => {
         
         // If no errors, proceed with form submission
         setIsSubmitted(true);
-        const response = await axios.post('/send-email', formData);
+        const response = await axios.post('https://mybackend-kh59.onrender.com/send-email', formData);
 
         if (response.status === 200) {
           // Show success toast
