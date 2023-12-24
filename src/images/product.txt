@@ -1,0 +1,84 @@
+<div class="container">
+      <div class="card">
+        <h2 style="padding-left: 70px;padding-top:20px">5G power</h2>
+        <p>nvieunrl  vwieurfv   weurvnnq ov</p>
+        <div class=" face face1">
+          <div class="content">
+            
+            <p>jkfehrew eiruvuebqu  vjkeruewvqmei</p>
+          </div>
+        </div>
+        <div class="face face2">
+          <div class="content">
+            <p>geuqnvqorweuv qgoev quwevgwuoervbqwecsdzmxnmcawe uwecweurcbv snfauwevb</p>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="face face1">
+          <div class="content">
+          
+           <p>jkfehrew eiruvuebqu  vjkeruewvqmei</p>
+           
+          </div>
+        </div>
+        <div class="face face2">
+          <div class="content">
+            <p>geuqnvqorweuv qgoev quwevgwuoervbqwecsdzmxnmcawe uwecweurcbv snfauwevb</p>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="face face1">
+          <div class="content">
+           
+           <p>jkfehrew eiruvuebqu  vjkeruewvqmei</p>
+          </div>
+        </div>
+        <div class="face face2">
+          <div class="content">
+            <p>geuqnvqorweuv qgoev quwevgwuoervbqwecsdzmxnmcawe uwecweurcbv snfauwevb</p>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="face face1">
+          <div class="content">
+            <h2>vksjher</h2>
+           <p>jkfehrew eiruvuebqu  vjkeruewvqmei</p>
+          </div>
+        </div>
+        <div class="face face2">
+          <div class="content">
+            <p>geuqnvqorweuv qgoev quwevgwuoervbqwecsdzmxnmcawe uwecweurcbv snfauwevb</p>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="face face1">
+          <div class="content">
+            <h2>vksjher</h2>
+           <p>jkfehrew eiruvuebqu  vjkeruewvqmei</p>
+          </div>
+        </div>
+        <div class="face face2">
+          <div class="content">
+            <p>geuqnvqorweuv qgoev quwevgwuoervbqwecsdzmxnmcawe uwecweurcbv snfauwevb</p>
+          </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="face face1">
+          <div class="content">
+            <h2>vksjher</h2>
+           <p>jkfehrew eiruvuebqu  vjkeruewvqmei</p>
+          </div>
+        </div>
+        <div class="face face2">
+          <div class="content">
+            <p>geuqnvqorweuv qgoev quwevgwuoervbqwecsdzmxnmcawe uwecweurcbv snfauwevb</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    
