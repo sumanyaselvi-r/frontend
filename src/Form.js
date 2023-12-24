@@ -69,7 +69,7 @@ const ContactForm = () => {
       isMounted.current = false; // Set isMounted to false when the component unmounts
     };
   }, []);
-  const apiUrl = process.env.REACT_APP_API_URL;
+  const apiUrl = "https://jade-basbousa-580eea.netlify.app/send-email";
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -83,7 +83,7 @@ const ContactForm = () => {
         
         // If no errors, proceed with form submission
         setIsSubmitted(true);
-        const response = await axios.post('/send-email', formData);
+        const response = await axios.post(apiUrl, formData);
 
         if (response.status === 200) {
           // Show success toast
