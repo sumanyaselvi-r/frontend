@@ -29,7 +29,7 @@ function Footer() {
   
     <div className="footer-center">
       <div>
-      <FaMapMarkerAlt style={{fontSize:'xx-large'}}  />&nbsp;&nbsp;
+      <a href="https://www.google.com/maps/place/8%C2%B045'08.4%22N+77%C2%B041'20.2%22E/@8.752018,77.685888,17z/data=!4m4!3m3!8m2!3d8.7523333!4d77.6889444?hl=en&entry=ttu"  target='_blank'  style={{color:'black'}}><FaMapMarkerAlt style={{fontSize:'xx-large'}}  /></a>&nbsp;&nbsp;
           <p style={{fontFamily: 'PT Serif'}}>GALAXY BIO TECH,<br/>
             10/10H2,Sankarankoil Main Road,<br/>
             Ramayanpatti,Sankumuttammalpuram<br/>
@@ -51,7 +51,7 @@ function Footer() {
         <span>follow us</span>
         
         <a href="https://twitter.com/" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none',color:'black'}}>   <FaTwitter style={{fontSize:'x-large'}}  /></a>&nbsp;
-        <a href="https://www.linkedin.com/in/" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none',color:'black'}}>     <FaLinkedin style={{fontSize:'x-large'}}  /></a>&nbsp;
+        <a href="https://www.linkedin.com/company/galaxybiotech" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none',color:'black'}}>     <FaLinkedin style={{fontSize:'x-large'}}  /></a>&nbsp;
         <a href="https://www.instagram.com" target="_blank" rel="noopener noreferrer" style={{textDecoration:'none',color:'black'}}>    <FaInstagram style={{fontSize:'x-large'}} /></a> &nbsp;
         
       </p>
