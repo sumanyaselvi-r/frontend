@@ -4,7 +4,7 @@ import About from './About';
 import Footer from './Footer';
 import Logo from "./images/Test.png"
 import Hcontact from './Hcontact';
-import bgVideo from './video/wheat.mp4';
+import bgVideo from './images/wheat.mp4';
 
 function Home() {
   return (
