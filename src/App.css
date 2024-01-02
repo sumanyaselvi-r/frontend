@@ -42,7 +42,7 @@ html{
   }
   .banner{
   position: relative;
-  background-image: url(./images/b1.jpg);
+
   width: 100%;
   min-height: 100vh;
 	display: flex;
