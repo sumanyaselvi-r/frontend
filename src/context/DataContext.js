@@ -13,6 +13,8 @@ import Image11 from "../images/TITANIC.jpg";
 import Image12 from "../images/UMBRELLA.jpg";
 import Image13 from "../images/XXX SUPER.jpg";
 import Image14 from "../images/RED OUT.jpg";
+import Image15 from "../images/Dolphin.jpg";
+import Image16 from "../images/DOCTOR.jpg";
 import map from "../images/map.jpg"
 import email from "../images/em.png"
 import phone from "../images/ph.jpg"
@@ -31,93 +33,111 @@ export const DataProvider =({children})=>{
   {
     id: 2,
     title: 'Recommended Crops: ',
-    description:'All crops.',
-    image:image2
-  },
-  {
-    id: 3,
-    title: 'Recommended Crops: ',
-    description:'Jasmine,Pulses,Cotton,Paddy & Horticultural crops.',
-    image:Image3
-
-  },
-  {
-    id: 4,
-    title: 'Recommended Crops: ',
-    description:'8-16 kg per 1 acre',
-    image:Image4
-
-  },
-  {
-    id: 5,
-    title: 'Recommended Crops: ',
-    description:'Used as pesticide formulations,or as a tank mix.',
-    image:Image5
-
-  },
-  {
-    id: 6,
-    title: 'Recommended Crops: ',
-    description:'Cotton,Tomato,  Chrysanthemum & Crossandra.',
-    image:Image6
-
-  },
-  {
-    id: 7,
-    title: 'Recommended Crops: ',
-    description:'Herbal Extracter',
-    image:Image7
-
-  },
-  {
-    id: 8,
-    title: 'Recommended Crops: ',
-    description:'All agricultural and horticultural crops.',
-    image:Image8
-
-  },
-  {
-    id: 9,
-    title: 'Recommended Crops: ',
     description:'Jasmine,Pulses,Cotton,Paddy & Horticultural crops.',
     image:Image9
 
   },
   {
-    id: 10,
+    id: 3,
+    title: 'Recommended Crops: ',
+    description:'Jasmine,Pulses,Cotton,Paddy & Horticultural crops.',
+    image:Image14
+
+  },
+  {
+    id: 4,
     title: 'Recommended Crops: ',
     description:'Jasmine,Pulses,Cotton,Paddy & Horticultural crops.',
     image:Image10
 
   },
   {
-    id: 11,
-    title: 'Recommended Crops: ',
-    description:'All agricultural and horticultural crops.',
-    image:Image11
-
-  },
-  {
-    id: 12,
-    title: 'Recommended Crops: ',
-    description:'Improves penetration and adherence to insect cuticle.',
-    image:Image12
-
-  },
-  {
-    id: 13,
+    id: 5,
     title: 'Recommended Crops: ',
     description:'Brinjal,Jasmine,Pulses,  Cotton,  Paddy & Horticultural',
     image:Image13
 
   },
   {
-    id: 14,
+    id: 6,
     title: 'Recommended Crops: ',
-    description:'Jasmine,Pulses,Cotton,Paddy & Horticultural crops.',
-    image:Image14
+    description:'Herbal Extracter',
+    image:Image7
 
   },
+  {
+    id: 7,
+    title: 'Recommended Crops: ',
+    description:'Used as pesticide formulations,or as a tank mix.',
+    image:Image5
+
+  },
+  {
+    id: 8,
+    title: 'Recommended Crops: ',
+    description:'Jasmine,Pulses,Cotton,Paddy & Horticultural crops.',
+    image:Image3
+
+  },
+  {
+    id: 9,
+    title: 'Recommended Crops: ',
+    description:'All crops',
+    image:Image15
+
+  },
+  {
+    id: 10,
+    title: 'Recommended Crops: ',
+    description:'Cotton,Tomato,  Chrysanthemum & Crossandra.',
+    image:Image6
+
+  },
+  {
+    id: 11,
+    title: 'Recommended Crops: ',
+    description:'Improves penetration and adherence to insect cuticle.',
+    image:Image12
+
+  },
+  {
+    id: 12,
+    title: 'Recommended Crops: ',
+    description:'All agricultural and horticultural crops.',
+    image:Image8
+
+  },
+  {
+    id: 13,
+    title: 'Recommended Crops: ',
+    description:'All crops',
+    image:Image4
+
+  },
+  {
+    id: 14,
+    title: 'Recommended Crops: ',
+    description:'All crops',
+    image:Image16
+
+  },
+
+  {
+    id: 15,
+    title: 'Recommended Crops: ',
+    description:'All crops.',
+    image:image2
+  },
+ 
+  {
+    id: 16,
+    title: 'Recommended Crops: ',
+    description:'All agricultural and horticultural crops.',
+    image:Image11
+  },
+
+
+
   
 
 ]
