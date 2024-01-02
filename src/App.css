@@ -6,9 +6,9 @@ html{
 	scroll-behavior: smooth;
 }
 .navbar{
-	
+    
     background-color:rgb(71, 165, 71);
-    padding: bottom 5px;
+    
   }
   .navbar ul{
     float: right;
