@@ -24,7 +24,7 @@ function Navbar({logo}) {
   return (
     <>
          <header>
-          <nav    className="navbar navbar-expand-lg navbar-light bg-green fixed-top" >
+          <nav    className="navbar navbar-expand-lg navbar-light bg-green top" >
             <div className="container-fluid">
         <Link to={"/"} onClick={handleNavClick}><img className="logo" src={Logo} /></Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent">
